@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Senthil21555
+<h1 align="center">Hi 👋, I'm Senthilkumar T</h1>
+
+<a href="#"><img src="./snakefile.svg"></a>
 - 👀 I’m interested in software development, AI, and data science.
 - 🌱 I’m currently learning algorithms, machine learning, and cloud computing.
 - 💞️ I’m looking to collaborate on open-source projects, AI-driven applications, and web development.
