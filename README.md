@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Senthilkumar T</h1>
+<h1 align="center">Hello, Techies👋! I'm Senthilkumar T</h1>
 
 <a href="#"><img src="./snakefile.svg"></a>
 - 👀 I’m interested in software development, AI, and data science.
@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can debug code and solve a Rubik’s Cube simultaneously—challenge me!
 
-<br> <center>
+<center> <br> 
 ![](under-construction.gif)
-</center> <br>
+<br> </center>
 
