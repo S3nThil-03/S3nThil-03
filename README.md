@@ -8,7 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can debug code and solve a Rubik’s Cube simultaneously—challenge me!
 
-<center> <br> 
-![](under-construction.gif)
-<br> </center>
-
+ <br> <center> 
+![](under-construction.gif) </center>
+<br>
