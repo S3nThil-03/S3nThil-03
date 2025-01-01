@@ -7,7 +7,6 @@
 - 📫 How to reach me: You can contact me via email at senthil73587@gmail.com or connect with me on LinkedIn linkedin.com/in/senthilkumar-t-3593a728a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can debug code and solve a Rubik’s Cube simultaneously—challenge me!
-<!---
-Senthil21555/Senthil21555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- <center> ![](under-construction.gif) </center>
+
