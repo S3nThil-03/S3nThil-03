@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Techies👋! I'm Senthilkumar T</h1>
+<h1 align="center">Hello, Techies👋 I'm Senthilkumar T</h1>
 
 <a href="#"><img src="./snakefile.svg"></a>
 - 👀 I’m interested in software development, AI, and data science.
