@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I can debug code and solve a Rubik’s Cube simultaneously—challenge me!
 -----
 
-<h2><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" />&nbsp; Tools and Technologies I Used</h2>
+<h2><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" />&nbsp; Tools and Technologies</h2>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
