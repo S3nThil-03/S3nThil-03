@@ -45,7 +45,6 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
   
-  [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YourGitHubUsername&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/YourGitHubUsername)
 
 </div>
 
